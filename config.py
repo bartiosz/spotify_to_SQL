@@ -1,0 +1,8 @@
+TABLE_DIR = 'tables/'
+LIBRARY = TABLE_DIR + 'spotify_library.db'
+ALBUM_TABLE = TABLE_DIR + 'spotify_saved_albums.db'
+TRACK_TABLE = TABLE_DIR + 'spotify_saved_album_tracks.db'
+ARTIST_TABLE = TABLE_DIR + 'spotify_artists.db'
+ARTISTS_ALBUMS_TABLE = TABLE_DIR + 'spotify_artists_albums.db'
+ARTISTS_TRACKS_TABLE = TABLE_DIR + 'spotify_artists_tracks.db'
+SONG_TABLE = TABLE_DIR + 'spotify_saved_songs.db'
